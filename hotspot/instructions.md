@@ -10,10 +10,10 @@
 Internet <---> Router <---> RPi <~~~> Clients
 
 <---> : Wired connection
+
 <~~~> : Wireless connection
 
-
-Clients are on the same network as the RPi.
+Note : clients are on the same network as the RPi.
 
 ## Installation 
 
