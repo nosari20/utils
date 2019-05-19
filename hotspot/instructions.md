@@ -5,6 +5,16 @@
 * Raspberry Pi 3 or above (Wi-Fi interface required)
 * SD card (>1GB)
 
+## Overview
+
+Internet <---> Router <---> RPi <~~~> Clients
+
+<---> : Wired connection
+<~~~> : Wireless connection
+
+
+Clients are on the same network as the RPi.
+
 ## Installation 
 
 1. Download [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)
